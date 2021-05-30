@@ -15,3 +15,5 @@ function guessGame() {
 }
 
 guessGame();
+
+console.log("Working with Git for the practice's sake");
